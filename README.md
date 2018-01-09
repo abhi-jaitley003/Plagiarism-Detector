@@ -2,7 +2,7 @@
 Project:Plagiarism Checker Using N-Tuple Comparison Algorithm
 Author: Abhishek Jaitley
 Version: 1.0
-——————————————————————————————————————————————————————————————————————\
+
 
 How to run the application:
 	1. Extract the zip folder.
